@@ -17,8 +17,8 @@ ZF2 Console Client App for ICNDb API
 
 <h1>How To Use</h1>
 <ol>
-  <li>SSH to your webserver and navegate to the root directory where the app is installed</li>
-  <li>Navigate to public folder <i>user$ cd public/</i></li>
-  <li>Then run <i>user$ php index.php</i> to see the available command lines and arguments</li>
+  <li>SSH to your webserver and navigate to the root directory where the app is installed</li>
+  <li>Navigate to public folder <i><b>user$ cd public/</b></i></li>
+  <li>Then run <i><b>user$ php index.php</b></i> to see the available command lines and arguments</li>
 </ol>
 
